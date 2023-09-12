@@ -20,7 +20,7 @@ export default function Blog({ blog, handleReadTime, handleBookmark }) {
           </div>
         </div>
         <p className="flex gap-2 justify-center items-center font-xl">
-          <span className="text-gray-500">[about {reading_time} min]</span>
+          <span className="text-gray-500">{reading_time} min read</span>
           <span onClick={() => handleBookmark(blog)} className="tex-md cursor-pointer"><BsBookmark></BsBookmark></span>
         </p>
       </div>

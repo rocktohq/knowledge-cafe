@@ -28,7 +28,7 @@ export default function Blog({ blog, handleReadTime, handleBookmark }) {
       <div>
         {hashtags.map((hashtag, idx) => <a key={idx} href="#">#{hashtag} </a>)}
       </div>
-      <button onClick={() => handleReadTime(reading_time)} className="btn px-3 py-2 bg-cyan-500 hover:bg-cyan-600 rounded-md text-white mt-2 font-bold">Mark as Read</button>
+      <button onClick={() => handleReadTime(reading_time)} className="btn px-3 py-2 bg-purple-500 hover:bg-purple-600 rounded text-white mt-2 font-bold">Mark as Read</button>
     </div>
   )
 }

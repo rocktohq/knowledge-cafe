@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "cover": "https://i.ibb.co/yhnd6T2/bp-1.jpg",
+    "title": "The Art of Blogging",
+    "author_name": "John Doe",
+    "author_img": "https://i.ibb.co/TMT3Zvt/author-1.jpg",
+    "posted_date": "2023-09-01",
+    "reading_time": 10,
+    "hashtags": ["Blogging", "Writing", "Tips"]
+  },
+  {
+    "id": 2,
+    "cover": "https://i.ibb.co/kKFsDnh/bp-2.jpg",
+    "title": "Healthy Eating Habits",
+    "author_name": "Alice Smith",
+    "author_img": "https://i.ibb.co/TMT3Zvt/author-1.jpg",
+    "posted_date": "2023-09-03",
+    "reading_time": 8,
+    "hashtags": ["Health", "Nutrition", "Wellness"]
+  },
+  {
+    "id": 3,
+    "cover": "https://i.ibb.co/1K3djG0/bp-3.jpg",
+    "title": "Traveling on a Budget",
+    "author_name": "Sarah Johnson",
+    "author_img": "https://i.ibb.co/TMT3Zvt/author-1.jpg",
+    "posted_date": "2023-09-05",
+    "reading_time": 12,
+    "hashtags": ["Travel", "BudgetTravel", "Adventure"]
+  },
+  {
+    "id": 4,
+    "cover": "https://i.ibb.co/TcKQDr1/bp-4.jpg",
+    "title": "Mastering Photography",
+    "author_name": "David Williams",
+    "author_img": "https://i.ibb.co/TMT3Zvt/author-1.jpg",
+    "posted_date": "2023-09-08",
+    "reading_time": 15,
+    "hashtags": ["Photography", "Tips", "Art"]
+  },
+  {
+    "id": 5,
+    "cover": "https://i.ibb.co/hfs6B29/bp-5.jpg",
+    "title": "Effective Time Management",
+    "author_name": "Emily Davis",
+    "author_img": "https://i.ibb.co/TMT3Zvt/author-1.jpg",
+    "posted_date": "2023-09-10",
+    "reading_time": 7,
+    "hashtags": ["Productivity", "TimeManagement", "WorkLifeBalance"]
+  }
+]

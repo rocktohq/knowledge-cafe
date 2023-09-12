@@ -1,5 +1,5 @@
 # Knowledge Cafe
 
-"Knowledge Cafe" is a simple yet usefull blog project created with react and love__
+"Knowledge Cafe" is a simple yet usefull blog project created with react and love
 
-[KCafe.Netlify.App](https://kcafehq.netlify.app)
+Live Demo: [KCafeHQ.Netlify.App](https://kcafehq.netlify.app)
